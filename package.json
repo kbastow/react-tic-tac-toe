@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kbastow.github.io/react-tic-tac-toe",
+  "homepage": "https://kbastow.github.io/react-tic-tac-toe/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
